@@ -18,6 +18,10 @@
           <option name="url" value="https://P2887037@stash.dev-charter.net/stash/scm/cd/ns-asset-api.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://gitlab.meta.spectrum.net/NNS/restserver.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/Desktop" />
