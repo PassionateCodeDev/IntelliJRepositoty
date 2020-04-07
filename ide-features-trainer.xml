@@ -8,7 +8,7 @@
         <entry key="Actions" value="NOT_PASSED" />
         <entry key="Basic Completion" value="NOT_PASSED" />
         <entry key="Class Search" value="NOT_PASSED" />
-        <entry key="CodeAssistance.CodeFormatting" value="NOT_PASSED" />
+        <entry key="CodeAssistance.CodeFormatting" value="PASSED" />
         <entry key="CodeAssistance.EditorCodingAssistance" value="NOT_PASSED" />
         <entry key="CodeAssistance.ParameterInfo" value="NOT_PASSED" />
         <entry key="CodeAssistance.QuickPopups" value="NOT_PASSED" />
