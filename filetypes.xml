@@ -1,12 +1,14 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <removed_mapping ext="config" approved="true" type="LOMBOK_CONFIG" />
       <mapping ext="template" type="Native" />
       <mapping pattern="Jenkinsfile" type="PLAIN_TEXT" />
       <mapping pattern="dynamicListHybridTest.json" type="PLAIN_TEXT" />
       <mapping ext="ssm_201911121333312" type="PLAIN_TEXT" />
       <mapping ext="config" type="PLAIN_TEXT" />
       <mapping ext="data" type="PLAIN_TEXT" />
+      <removed_mapping ext="config" approved="true" type="LOMBOK_CONFIG" />
     </extensionMap>
   </component>
 </application>
