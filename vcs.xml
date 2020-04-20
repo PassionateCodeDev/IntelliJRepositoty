@@ -30,6 +30,10 @@
           <option name="url" value="git@gitlab.meta.spectrum.net:NNS/restserver.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="ssh://git@stash.dev-charter.net:7999/cd/ns-asset-api.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/Desktop" />
