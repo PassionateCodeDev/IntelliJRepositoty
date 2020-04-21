@@ -1,6 +1,6 @@
 <application>
   <component name="NotificationConfiguration">
-    <notification groupId="Lombok plugin" shouldReadAloud="true" />
+    <notification groupId="Lombok plugin" shouldLog="false" />
     <notification groupId="Run Dashboard" displayType="STICKY_BALLOON" />
     <notification groupId="Spring Configuration Check" displayType="STICKY_BALLOON" shouldLog="false" />
   </component>
